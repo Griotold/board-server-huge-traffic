@@ -10,4 +10,12 @@ class BoardserverApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void blah_blah() throws Exception {
+	    // given
+
+	    // when
+
+	    // then
+	}
 }
